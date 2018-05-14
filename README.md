@@ -6,7 +6,7 @@
 ## Clase 9 Clases y Objetos
   - Deber: https://classroom.github.com/a/qczhPsZC
 
-## Clase 10 Ejercicio Estudiantes
+## Clase 9 Ejercicio Estudiantes
   - Deber: https://classroom.github.com/a/GJaUtNRa
   
   - Formato de información: 
@@ -44,4 +44,7 @@ M3: 2
 M4: 2
 M5: 1
 ```
+
+## Clase 10 Ejercicio Tienda
+  - Deber: https://classroom.github.com/a/H4pXc9b_
 
