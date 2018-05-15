@@ -47,4 +47,6 @@ M5: 1
 
 ## Clase 10 Ejercicio Tienda
   - Deber: https://classroom.github.com/a/H4pXc9b_
-
+  
+## Clase 11 Prueba teórica
+  - Prueba: https://goo.gl/forms/S4nkldxJumRuD4nH2
