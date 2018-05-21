@@ -52,6 +52,6 @@ M5: 1
   - Prueba: https://goo.gl/forms/S4nkldxJumRuD4nH2
   
 ## Clase 12 métodos y atributos static y métodos equals y toString
-  - Static
+  - static
   - equals()
   - toString()
