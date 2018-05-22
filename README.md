@@ -55,3 +55,15 @@ M5: 1
   - static
   - equals()
   - toString()
+
+## Clase 13 Ejercicio colección de música
+Escribir un programa que me permita administrar mi colección de música, necesito registrar la siguiente información:
+  - Artista
+  - Album
+  - Género
+    
+Se debe tener en cuenta que un artista puede tener varios albumes y un album pertenece a un género.
+El programa debe controlar que no se ingresen artistas duplicados (utilizar método equals), en este caso debe informar que el artista ya existe y preguntar si desea ingresar un album para el mismo.
+Declarar una clase para artista, otra para manejar la información del album y otra para el género.
+
+Si deseo imprimir por pantalla, debo poder imprimir toda la información del artista incluyendo la lista de albumes y el género musical (método toString()).
