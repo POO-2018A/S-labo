@@ -68,3 +68,6 @@ El programa debe controlar que no se ingresen artistas duplicados (utilizar mét
 Declarar una clase para artista, otra para manejar la información del album y otra para el género.
 
 Si deseo imprimir por pantalla, debo poder imprimir toda la información del artista incluyendo la lista de albumes y el género musical (método toString()).
+
+## Clase 15 Prueba 2
+- Link (https://classroom.github.com/a/PXS7_HMz)
