@@ -74,3 +74,6 @@ Si deseo imprimir por pantalla, debo poder imprimir toda la información del art
 
 ## Clase 17 Examen B1
 - Link (https://classroom.github.com/a/tr5_80mE)
+
+## Clase 18 Corrección Examen B1
+-Link https://classroom.github.com/a/FIQBJ2U1
