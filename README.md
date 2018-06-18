@@ -78,3 +78,9 @@ Si deseo imprimir por pantalla, debo poder imprimir toda la información del art
 ## Clase 18 Corrección Examen B1
 - Solución: https://github.com/POO-2018A/SolucionExamenB1
 - Link Deber https://classroom.github.com/a/FIQBJ2U1
+
+## Clase 19 Conversion C a F
+- https://classroom.github.com/a/JNEGH6Z_
+
+## Clase 20 Lista de compras
+- https://classroom.github.com/a/dE2VSEa-
