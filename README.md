@@ -84,3 +84,6 @@ Si deseo imprimir por pantalla, debo poder imprimir toda la información del art
 
 ## Clase 20 Lista de compras
 - https://classroom.github.com/a/dE2VSEa-
+
+## Clase 21 Tabla estudiantes
+- https://classroom.github.com/a/xm9PxXmM
