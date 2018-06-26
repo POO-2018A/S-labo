@@ -87,3 +87,6 @@ Si deseo imprimir por pantalla, debo poder imprimir toda la información del art
 
 ## Clase 21 Tabla estudiantes
 - https://classroom.github.com/a/xm9PxXmM
+
+## Clase 23 Matricula estudiantes
+- https://classroom.github.com/a/OaTzlpGn
