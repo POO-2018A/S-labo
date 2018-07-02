@@ -90,3 +90,44 @@ Si deseo imprimir por pantalla, debo poder imprimir toda la información del art
 
 ## Clase 23 Matricula estudiantes
 - https://classroom.github.com/a/OaTzlpGn
+
+## Clase 24 Adivina el número
+```java
+/**
+ * Escriba una aplicación que juegue a “adivinar el número” de la siguiente manera: 
+ * su aplicación debe elegir el número a adivinar, seleccionando un entero al azar 
+ * en el rango de 1 a 1000. 
+ * 
+ * La aplicación entonces deberá mostrar lo siguiente en una etiqueta:
+ * 
+ *  Tengo un numero entre 1 y 1000. Puede usted adivinarlo?
+ *  Por favor escriba su primer intento.
+ * 
+ * Debe usarse un objeto JTextField para introducir el intento. A medida que se 
+ * introduzca cada intento, el color de fondo deberá cambiar ya sea a rojo o azul. 
+ * Rojo indica que el usuario se está “acercando” y azul indica que el usuario 
+ * se está “alejando”. Un objeto JLabel deberá mostrar el mensaje "Demasiado 
+ * alto" o "Demasiado bajo" para ayudar al usuario a tratar de adivinar 
+ * correctamente el número. Cuando el usuario adivine correctamente, deberá 
+ * mostrarse el mensaje "Correcto!", y el objeto JTextField utilizado para la 
+ * entrada deberá cambiar para que no pueda editarse.
+ * 
+ * Debe proporcionarse un objeto JButton para permitir al usuario jugar de nuevo. 
+ * Cuando se haga clic en el objeto JButton, deberá generarse un nuevo número 
+ * aleatorio y el objeto JTextField de entrada deberá cambiar para poder 
+ * editarse otra vez.
+ *
+ * **************************** ALEATORIOS EN JAVA ****************************
+ * 
+ * Para generar números aleatorios en java podemos importar la clase Random:
+ * import java.util.Random;
+ * 
+ * Esta clase se la utiliza de la siguiente manera:
+ *  Random numAleatorio = new Random(); // creamos una instancia de la clase
+ *  System.out.println(numAleatorio.nextInt(1000)); // generamos un número
+ *                                                  // aleatorio entre 0 y 1000
+ * 
+ * ****************************************************************************
+ */
+ ```
+ - Subir el ejercicio hasta las 9:00 am de hoy lunes 2 de julio aquí: https://classroom.github.com/a/pt7IxlLf
