@@ -131,3 +131,6 @@ Si deseo imprimir por pantalla, debo poder imprimir toda la información del art
  */
  ```
  - Subir el ejercicio hasta las 9:00 am de hoy lunes 2 de julio aquí: https://classroom.github.com/a/pt7IxlLf
+ 
+ ## Clase 25 Empleados
+ - https://classroom.github.com/a/PSQ5gyR3
