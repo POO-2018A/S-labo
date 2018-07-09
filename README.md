@@ -136,4 +136,12 @@ Si deseo imprimir por pantalla, debo poder imprimir toda la información del art
  - https://classroom.github.com/a/PSQ5gyR3
  
  ## Clase 26 Herencia - Profesor
- - https://classroom.github.com/a/TLJWYIun
+ - Registrar materia
+ - Registrar profesor
+   - Un profesor puede ser asignado a una materia
+   - Una materia solo puede ser dictada por un profesor
+ - Registrar estudiante
+ - Matricular estudiante en materia
+   - Un estudiante solo puede ser matriculado en una materia que ya tiene un profesor asignado
+ - Usar herencia para profesor y estudiante con una clase Persona
+ - Subir el ejercicio aquí: https://classroom.github.com/a/TLJWYIun
