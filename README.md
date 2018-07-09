@@ -134,3 +134,6 @@ Si deseo imprimir por pantalla, debo poder imprimir toda la información del art
  
  ## Clase 25 Empleados
  - https://classroom.github.com/a/PSQ5gyR3
+ 
+ ## Clase 26 Herencia - Profesor
+ - https://classroom.github.com/a/TLJWYIun
