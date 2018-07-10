@@ -145,3 +145,6 @@ Si deseo imprimir por pantalla, debo poder imprimir toda la información del art
    - Un estudiante solo puede ser matriculado en una materia que ya tiene un profesor asignado
  - Usar herencia para profesor y estudiante con una clase Persona
  - Subir el ejercicio aquí: https://classroom.github.com/a/TLJWYIun
+ 
+## Clase 27 Prueba
+- https://classroom.github.com/a/nOOBgNoI
