@@ -151,3 +151,6 @@ Si deseo imprimir por pantalla, debo poder imprimir toda la información del art
 
 ## Proyecto Final
 - https://github.com/POO-2018A/Proyecto-Final
+
+## Clase 30 Interfaces Deber Figuras
+- https://classroom.github.com/a/C_nQ1u0n
