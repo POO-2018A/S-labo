@@ -155,7 +155,8 @@ Si deseo imprimir por pantalla, debo poder imprimir toda la información del art
 ## Clase 30 Interfaces Deber Figuras
 - https://classroom.github.com/a/C_nQ1u0n
 
-
+## Clase 33 Excepciones
+- https://classroom.github.com/a/c4htIcq0
 
 ## Clase 34 Examen
 - https://classroom.github.com/a/Yk31pbpv
