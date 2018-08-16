@@ -160,3 +160,6 @@ Si deseo imprimir por pantalla, debo poder imprimir toda la información del art
 
 ## Clase 34 Examen
 - https://classroom.github.com/a/Yk31pbpv
+
+## Supletorio
+- https://classroom.github.com/a/eC0H2YM2
